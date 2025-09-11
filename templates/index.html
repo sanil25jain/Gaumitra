@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bovine Breed Classifier</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #2E8B57; }
+        .prediction { background: #f0f8ff; padding: 20px; border-radius: 8px; margin-top: 20px; }
+        .field { margin: 5px 0; }
+        .field strong { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Indian Bovine Breed Classifier</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required><br><br>
+        <button type="submit">Predict Breed</button>
+    </form>
+
+    {% if prediction %}
+    <div class="prediction">
+        <h2>Predicted Breed: {{ prediction }}</h2>
+        <p class="field"><strong>Description:</strong> {{ prediction_info.description }}</p>
+        <p class="field"><strong>Primary Purpose:</strong> {{ prediction_info.primary_purpose }}</p>
+        <p class="field"><strong>Average Milk Yield:</strong> {{ prediction_info.average_milk_yield }}</p>
+        <p class="field"><strong>Region:</strong> {{ prediction_info.region }}</p>
+        <p class="field"><strong>Physical Traits:</strong> {{ prediction_info.physical_traits }}</p>
+        <p class="field"><strong>Management Tip:</strong> {{ prediction_info.management_tip }}</p>
+    </div>
+    {% endif %}
+</body>
+</html>

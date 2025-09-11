@@ -1,0 +1,331 @@
+{
+  "Alambadi": {
+    "description": "Indigenous draught breed, hardy and drought-resistant, native to Tamil Nadu.",
+    "purpose": "Primarily used for draught and cart work, not for milk.",
+    "milk_yield": "Very low, ~1–2 liters/day",
+    "region": "Found in Krishnagiri, Dharmapuri, Erode districts of Tamil Nadu, and parts of Karnataka.",
+    "physical_traits": "Medium-sized, grey coat (light/dark shades), long narrow face, sharp horns curving outward and backward.",
+    "management_tips": "Best suited for dry farming; thrives in low-input systems; needs minimal maintenance and good grazing land."
+  },
+  "Amritmahal": {
+    "description": "Ancient draught breed known for speed, stamina, and endurance, nicknamed 'the Mysore War Horse.'",
+    "purpose": "Mainly used for heavy draught, transport, and military work in history.",
+    "milk_yield": "Low, about 1–3 liters/day",
+    "region": "Originates from Karnataka, especially Chitradurga, Chikmagalur, and Tumkur districts.",
+    "physical_traits": "Medium to large size, grey/white coat, long narrow face, strong limbs, sharp pointed horns.",
+    "management_tips": "Performs well under extensive grazing, requires open spaces, thrives in semi-arid conditions with hardy management."
+  },
+  "Ayrshire": {
+    "description": "Exotic dairy breed, hardy and adaptable, imported mainly for crossbreeding.",
+    "purpose": "Specialized dairy cattle.",
+    "milk_yield": "High, ~20–30 liters/day with 4–4.5% fat",
+    "region": "Originated in Ayr county, Scotland; reared in parts of India under crossbreeding projects.",
+    "physical_traits": "Medium-sized, red-and-white spotted coat, upright horns, strong udder, good grazing ability.",
+    "management_tips": "Requires good quality fodder, proper housing, and regular health care; best suited to temperate and well-managed dairy farms."
+  },
+  "Banni": {
+    "description": "Indigenous dual-purpose cattle of Kutch, Gujarat, famous for resilience in harsh desert climate.",
+    "purpose": "Mainly milk production; also adapted for survival in arid zones.",
+    "milk_yield": "Good, ~8–12 liters/day with 4–5% fat",
+    "region": "Native to the Banni grasslands of Kutch, Gujarat.",
+    "physical_traits": "Medium-sized, usually white or light grey, sturdy body, short horns, prominent hump.",
+    "management_tips": "Thrives under extensive grazing, well-suited for low-input systems, needs protection from heat stress and water scarcity."
+  },
+  "Bargur": {
+    "description": "Indigenous draught breed, hardy and active, native to Tamil Nadu.",
+    "purpose": "Mainly used for ploughing, cart work, and herding; limited milk use.",
+    "milk_yield": "Low, ~1–2 liters/day",
+    "region": "Found in Bargur hills of Erode district, Tamil Nadu.",
+    "physical_traits": "Medium-sized, reddish-brown coat often with white markings, compact body, backward-curving sharp horns, fiery temperament.",
+    "management_tips": "Performs best in hilly, forest-grazing systems; requires experienced handlers due to aggressive nature."
+  },
+  "Bhadawari": {
+    "description": "Indigenous riverine buffalo breed, valued for high-fat milk and hardiness.",
+    "purpose": "Mainly dairy, with excellent milk fat content.",
+    "milk_yield": "Moderate, ~4–5 liters/day, but very rich (6–12% fat)",
+    "region": "Native to Agra and Etawah districts of Uttar Pradesh, also found in Madhya Pradesh.",
+    "physical_traits": "Medium-sized, copper-colored body with characteristic two white stripes ('chevrons') on the neck, sickle-shaped horns.",
+    "management_tips": "Thrives under semi-intensive management, tolerates heat, ideal for low-input dairy systems."
+  },
+  "Brown Swiss": {
+    "description": "Exotic dairy breed, known for strength, adaptability, and longevity.",
+    "purpose": "Specialized for milk production.",
+    "milk_yield": "High, ~20–25 liters/day with ~4% fat and good protein content",
+    "region": "Originated in Switzerland; reared in India mainly under crossbreeding programs.",
+    "physical_traits": "Large, sturdy body; light brown/grey coat with creamy muzzle and dark nose; well-developed udder.",
+    "management_tips": "Needs good-quality fodder, balanced nutrition, and proper housing; well-suited to intensive dairy farming systems."
+  },
+  "Dangi": {
+    "description": "Indigenous draught cattle, well-known for endurance in heavy rainfall and hilly terrains.",
+    "purpose": "Mainly used for ploughing in rice fields and cart work; milk yield is secondary.",
+    "milk_yield": "Low, ~1–3 liters/day",
+    "region": "Native to Nasik, Ahmednagar, and Pune districts of Maharashtra.",
+    "physical_traits": "Medium-sized, white or mottled coat with black spots, sturdy body, short legs, well-developed hooves resistant to wet conditions.",
+    "management_tips": "Thrives in high rainfall areas; best suited for wet paddy cultivation; requires grazing in hilly pastures."
+  },
+  "Deoni": {
+    "description": "Dual-purpose indigenous cattle, valued for both milk and draught power.",
+    "purpose": "Dairy + draught.",
+    "milk_yield": "Moderate, ~3–5 liters/day with ~4–5% fat",
+    "region": "Native to Latur, Osmanabad, and Parbhani districts of Maharashtra; also seen in Karnataka and Telangana.",
+    "physical_traits": "Medium to large size, white body with black spots on face and body, broad forehead, strong limbs.",
+    "management_tips": "Performs well under semi-intensive systems; requires good grazing land; hardy in dry conditions."
+  },
+  "Gir": {
+    "description": "Famous indigenous dairy cattle, one of the best zebu breeds, known for high milk yield and disease resistance.",
+    "purpose": "Primarily dairy, also used in crossbreeding programs.",
+    "milk_yield": "Good, ~10–15 liters/day (can go higher under good management) with ~4.5% fat",
+    "region": "Native to Gir forests of Gujarat (Junagadh, Bhavnagar, Rajkot districts).",
+    "physical_traits": "Distinctive domed forehead, long pendulous ears, curved horns, red/white spotted coat.",
+    "management_tips": "Thrives in hot climates, hardy against tropical diseases, performs best with good fodder and semi-intensive management."
+  },
+  "Nimari": {
+    "description": "Indigenous dual-purpose cattle breed, strong and hardy, native to central India.",
+    "purpose": "Draught + moderate milk production.",
+    "milk_yield": "Moderate, ~2–3 liters/day with ~4% fat",
+    "region": "Found in Narmada valley regions of Madhya Pradesh and parts of Maharashtra.",
+    "physical_traits": "Medium-sized, red coat with white patches, strong body, straight horns, compact build.",
+    "management_tips": "Well-suited for dryland farming, thrives on grazing, needs minimal maintenance."
+  },
+  "Ongole": {
+    "description": "Large and strong indigenous draught breed, also valued in dairy and famous globally for sturdiness.",
+    "purpose": "Draught + moderate milk production; also used for crossbreeding.",
+    "milk_yield": "Moderate, ~3–5 liters/day with ~4–5% fat",
+    "region": "Native to Prakasam (Ongole) district of Andhra Pradesh; exported to several countries (e.g., Brazil).",
+    "physical_traits": "Large body, white/grey coat, long muscular limbs, prominent hump, broad forehead, strong curved horns.",
+    "management_tips": "Hardy and disease-resistant, suited for hot climates, requires open grazing lands and semi-intensive care."
+  },
+  "Kherigarh": {
+    "description": "Indigenous draught breed from Uttar Pradesh, hardy and adaptable.",
+    "purpose": "Mainly used for light draught work and transport, limited milk.",
+    "milk_yield": "2–4 liters/day with 4–4.5% fat",
+    "region": "Native to Kheri district of Uttar Pradesh, near Nepal border.",
+    "physical_traits": "Medium-sized, light gray to white coat, long legs, upward-curving horns.",
+    "management_tips": "Performs well on grazing, low input needs, suited for hot and humid climate."
+  },
+  "Kenkatha": {
+    "description": "Small indigenous draught cattle of Bundelkhand, hardy and low-maintenance.",
+    "purpose": "Mainly used for ploughing and cart work, with limited milk use.",
+    "milk_yield": "1–2 liters/day with 4.5–5% fat",
+    "region": "Native to Bundelkhand region of MP and UP near river Ken.",
+    "physical_traits": "Compact body, grey to black coat, short horns, strong legs.",
+    "management_tips": "Thrives on dry fodder, tolerates heat, disease-resistant, ideal for dryland farming."
+  },
+  "Khillari": {
+    "description": "A hardy draught cattle breed from Maharashtra and Karnataka.",
+    "purpose": "Mainly used for heavy agricultural work and cart pulling.",
+    "milk_yield": "2–3 liters/day with ~4.5% fat",
+    "region": "Native to Satara, Sangli, and Solapur districts of Maharashtra.",
+    "physical_traits": "Compact body, light grey to white coat, long sharp horns pointing forward, strong legs.",
+    "management_tips": "Thrives in dry, hot climate; needs good grazing; disease-resistant and low-maintenance."
+  },
+  "Krishna Valley": {
+    "description": "Large, powerful draught breed from the Krishna river valley region.",
+    "purpose": "Mainly used for heavy draught and agricultural work, limited milk use.",
+    "milk_yield": "2–3 liters/day with ~4% fat",
+    "region": "Native to northern districts of Karnataka (Bijapur, Belgaum) and parts of Maharashtra.",
+    "physical_traits": "Large body, usually white to grey coat, broad forehead, strong muscular build, long horns.",
+    "management_tips": "Requires good feeding and care, best suited for heavy farm work, relatively hardy in hot climates."
+  },
+  "Malnad Gidda": {
+    "description": "Small indigenous dwarf cattle breed from the Western Ghats of Karnataka.",
+    "purpose": "Mainly valued for milk with high medicinal properties, also hardy for draught in hilly areas.",
+    "milk_yield": "1–3 liters/day with 4.5–5% fat",
+    "region": "Native to Malnad region of Karnataka (Shimoga, Chikmagalur, Uttara Kannada).",
+    "physical_traits": "Dwarf size, compact body, usually black or brown coat, short horns, highly agile.",
+    "management_tips": "Requires minimal feed, thrives on forest grazing, highly disease-resistant, ideal for small farmers."
+  },
+  "Mehsana": {
+    "description": "Popular buffalo breed developed from Murrah × Surti cross.",
+    "purpose": "Primarily a high-yielding dairy breed.",
+    "milk_yield": "6–10 liters/day with 6–7% fat",
+    "region": "Native to Mehsana district of Gujarat.",
+    "physical_traits": "Medium-sized, black or brown coat, sickle-shaped horns, wedge-shaped body.",
+    "management_tips": "Performs best on stall-feeding with green fodder, needs regular care, adapts well to intensive dairy systems."
+  },
+  "Murrah": {
+    "description": "Most popular and high-yielding dairy buffalo breed in India.",
+    "purpose": "Primarily used for milk production.",
+    "milk_yield": "8–16 liters/day with 6–8% fat",
+    "region": "Native to Haryana and Punjab, widely distributed across India.",
+    "physical_traits": "Jet black coat, massive body, tightly curled horns, broad forehead.",
+    "management_tips": "Performs well under stall-feeding, requires good quality fodder, high disease resistance, ideal for commercial dairy farming."
+  },
+  "Nagori": {
+    "description": "Strong draught cattle breed from Rajasthan, known for speed and endurance.",
+    "purpose": "Mainly used for cart pulling, transport, and agricultural work.",
+    "milk_yield": "1–2 liters/day with ~4% fat (not a dairy breed)",
+    "region": "Native to Nagaur district of Rajasthan.",
+    "physical_traits": "Large, muscular body; usually white or gray coat; long upward-curving horns; long legs.",
+    "management_tips": "Performs best in arid climates, needs dry fodder and grazing, hardy and disease-resistant."
+  },
+  "Nagpuri": {
+    "description": "Dual-purpose buffalo breed from Maharashtra, known for both milk and draught power.",
+    "purpose": "Used for milk production and medium draught work.",
+    "milk_yield": "4–6 liters/day with 7–8% fat",
+    "region": "Native to Vidarbha region of Maharashtra (Nagpur, Wardha, Akola).",
+    "physical_traits": "Black or dark gray coat, long flat-curved horns (sometimes up to 1.5 meters), medium-sized body.",
+    "management_tips": "Thrives in hot and dry climate, survives on grazing with minimal inputs, hardy and disease-resistant."
+  },
+  "Nili-Ravi": {
+    "description": "High-yielding dairy buffalo breed, often called the “Black Gold of Pakistan.”",
+    "purpose": "Primarily used for milk production.",
+    "milk_yield": "10–15 liters/day with 6–7% fat",
+    "region": "Native to Punjab region (India–Pakistan border, especially Pakistan’s Lahore, Sheikhupura, Faisalabad).",
+    "physical_traits": "Jet black coat, white markings on forehead/face/legs, large body, tightly curled horns.",
+    "management_tips": "Needs good stall-feeding with green fodder, adapts well to hot climates, suitable for commercial dairies."
+  },
+  "Guernsey": {
+    "description": "Dairy cattle breed from the Channel Islands, known for rich, golden-colored milk.",
+    "purpose": "Primarily used for milk production.",
+    "milk_yield": "4–6 liters/day (average in India) with 4–5% fat",
+    "region": "Originally from Guernsey Island (UK), also reared in India in selective farms.",
+    "physical_traits": "Medium-sized, fawn to reddish-brown with white patches, docile temperament.",
+    "management_tips": "Requires good feeding and shelter, moderate maintenance, suitable for small-to-medium scale dairy farms."
+  },
+  "Hallikar": {
+    "description": "Indigenous draught cattle breed from Karnataka, known for endurance and agility.",
+    "purpose": "Mainly used for ploughing and transport; limited milk production.",
+    "milk_yield": "2–3 liters/day with ~4% fat",
+    "region": "Native to southern Karnataka (Mysore, Hassan, Chitradurga districts).",
+    "physical_traits": "Medium-sized, usually grey coat, long curved horns, strong legs, compact body.",
+    "management_tips": "Thrives on grazing, hardy in hot and dry conditions, low maintenance, ideal for small farmers."
+  },
+  "Hariana": {
+    "description": "Indigenous draught cattle breed from Haryana, known for strength and adaptability.",
+    "purpose": "Mainly used for ploughing and transport; moderate milk production.",
+    "milk_yield": "6–8 liters/day with 4–5% fat",
+    "region": "Native to Haryana and parts of Delhi, Uttar Pradesh, and Punjab.",
+    "physical_traits": "Medium to large-sized, white or light gray coat, long curved horns, muscular body.",
+    "management_tips": "Performs well on grazing and dry fodder, hardy in hot climates, low-maintenance draught breed."
+  },
+  "Holstein Friesian": {
+    "description": "Exotic dairy cattle breed from the Netherlands and Germany, famous for very high milk production.",
+    "purpose": "Primarily used for commercial milk production.",
+    "milk_yield": "20–30 liters/day (varies with management) with 3–4% fat",
+    "region": "Originally European; widely imported and reared in India for commercial dairies.",
+    "physical_traits": "Large-sized, black-and-white spotted coat, long body, docile temperament.",
+    "management_tips": "Requires high-quality feed and proper shelter, suitable for intensive dairy farming, moderate disease care needed."
+  },
+  "Jaffarabadi": {
+    "description": "Large, heavy dairy buffalo breed from Gujarat, known for high milk yield and strong build.",
+    "purpose": "Primarily used for milk production.",
+    "milk_yield": "8–15 liters/day with 6–7% fat",
+    "region": "Native to Jafarabad district of Gujarat.",
+    "physical_traits": "Massive body, black coat, short curved horns, broad forehead.",
+    "management_tips": "Thrives on stall-feeding with good green fodder, hardy in hot climates, suitable for commercial dairies."
+  },
+  "Jersey": {
+    "description": "Small-sized exotic dairy cattle breed from the Jersey Island (UK), known for rich, high-fat milk.",
+    "purpose": "Primarily used for milk production.",
+    "milk_yield": "10–15 liters/day with 5–6% fat",
+    "region": "Imported to India, mainly reared in selective dairy farms.",
+    "physical_traits": "Small to medium-sized, fawn or light brown coat, docile temperament, compact body.",
+    "management_tips": "Needs good feed and shelter, thrives under intensive dairy systems, suitable for small-to-medium scale farms."
+  },
+  "Kangayam": {
+    "description": "Indigenous draught cattle breed from Tamil Nadu, known for strength and endurance.",
+    "purpose": "Mainly used for ploughing, cart pulling, and agricultural work; limited milk production.",
+    "milk_yield": "2–3 liters/day with ~4% fat",
+    "region": "Native to Kangayam region of Tamil Nadu.",
+    "physical_traits": "Medium-sized, grey to dark grey coat, short curved horns, muscular and compact body.",
+    "management_tips": "Thrives on grazing and low-input feeding, hardy in hot climate, suitable for small farmers."
+  },
+  "Kankrej": {
+    "description": "Indigenous draught and dairy cattle breed from Gujarat and Rajasthan, known for hardiness.",
+    "purpose": "Dual-purpose: ploughing, transport, and moderate milk production.",
+    "milk_yield": "6–8 liters/day with 4–5% fat",
+    "region": "Native to Kutch and Saurashtra regions of Gujarat, also found in Rajasthan.",
+    "physical_traits": "Large body, white or gray coat with black markings, long curved horns, muscular build.",
+    "management_tips": "Performs well on grazing and crop residues, hardy in hot climates, low maintenance."
+  },
+  "Kasargod": {
+    "description": "Indigenous draught cattle breed from Kerala, known for hardiness and adaptability.",
+    "purpose": "Mainly used for light draught work and ploughing; limited milk production.",
+    "milk_yield": "1–2 liters/day with ~4% fat",
+    "region": "Native to Kasargod district of Kerala.",
+    "physical_traits": "Small to medium size, usually light gray or white coat, short curved horns, compact body.",
+    "management_tips": "Thrives on grazing and low inputs, hardy in humid conditions, low-maintenance draught breed."
+  },
+  "Pulikulam": {
+    "description": "Indigenous draught and multipurpose cattle, hardy and famous for use in traditional Jallikattu sport.",
+    "purpose": "Draught, cultural sport (bull racing), limited milk use.",
+    "milk_yield": "Low, ~1–2 liters/day",
+    "region": "Native to Madurai, Sivagangai, and Virudhunagar districts of Tamil Nadu.",
+    "physical_traits": "Small to medium size, grey or dark coat (sometimes white patches), compact muscular body, backward curving horns, active and aggressive temperament.",
+    "management_tips": "Performs best under extensive grazing; needs experienced handlers due to aggressive nature; thrives in dryland farming areas."
+  },
+  "Rathi": {
+    "description": "Indigenous dual-purpose cattle, primarily known for dairy performance in arid regions.",
+    "purpose": "Mainly dairy, also used as draught in dry areas.",
+    "milk_yield": "Good, ~6–10 liters/day with ~4% fat",
+    "region": "Native to Bikaner and Ganganagar districts of Rajasthan.",
+    "physical_traits": "Medium-sized, usually brown with white patches (or sometimes black/white), well-developed udder, strong body.",
+    "management_tips": "Thrives in hot, dry climates; requires low maintenance; suited for semi-intensive farming in arid zones."
+  },
+  "Red Dane": {
+    "description": "Exotic dairy cattle breed, imported mainly for crossbreeding to improve milk yield.",
+    "purpose": "Specialized dairy.",
+    "milk_yield": "High, ~20–25 liters/day with ~4% fat",
+    "region": "Originated in Denmark; maintained in India under organized dairy and crossbreeding projects.",
+    "physical_traits": "Large body, reddish-brown coat (sometimes with white patches), strong legs, well-developed udder.",
+    "management_tips": "Needs intensive management, high-quality fodder, proper housing, and veterinary care; best suited to well-organized dairy farms."
+  },
+  "Red Sindhi": {
+    "description": "Indigenous dairy cattle, famous for adaptability and disease resistance.",
+    "purpose": "Primarily dairy; also used in crossbreeding to improve milk quality.",
+    "milk_yield": "Good, ~8–12 liters/day with ~4–5% fat",
+    "region": "Native to Sindh province (Pakistan); widely reared in India (Rajasthan, Haryana, Gujarat, Punjab).",
+    "physical_traits": "Medium-sized, deep reddish-brown coat (sometimes with white markings), compact body, drooping ears, short horns.",
+    "management_tips": "Thrives in hot climates, resistant to tropical diseases, performs well under both grazing and semi-intensive management."
+  },
+  "Sahiwal": {
+    "description": "One of the best indigenous dairy breeds, hardy and highly productive in tropical climates.",
+    "purpose": "Specialized dairy, also used for crossbreeding.",
+    "milk_yield": "High, ~8–12 liters/day (can reach 15–20 under good care) with ~4.5–5% fat",
+    "region": "Native to Montgomery (now Sahiwal) district of Punjab (Pakistan); reared widely in India (Punjab, Haryana, Uttar Pradesh).",
+    "physical_traits": "Medium to large size, reddish-brown coat with white patches, loose skin, long drooping ears, strong udder.",
+    "management_tips": "Thrives in hot, humid climates; disease resistant; performs well in both grazing and semi-intensive systems with good fodder."
+  },
+  "Surti Buffalo": {
+    "description": "Indigenous dairy buffalo breed, small and docile, valued for good quality milk.",
+    "purpose": "Mainly dairy.",
+    "milk_yield": "Moderate, ~5–7 liters/day with ~7–8% fat",
+    "region": "Native to Kaira and Vadodara districts of Gujarat.",
+    "physical_traits": "Medium-sized, sickle-shaped flat horns, wedge-shaped body, light/grey-black coat, straight back.",
+    "management_tips": "Easy to manage due to docile nature, performs best under stall-feeding or semi-intensive systems, requires balanced fodder for good yield."
+  },
+  "Tharparkar": {
+    "description": "Dual-purpose indigenous cattle, hardy and drought-resistant, well-suited for arid regions.",
+    "purpose": "Dairy + draught.",
+    "milk_yield": "Moderate to good, ~8–10 liters/day with ~4–5% fat",
+    "region": "Native to Thar Desert region (Tharparkar district of Pakistan and Rajasthan, India).",
+    "physical_traits": "Medium to large size, white/grey coat, dome-shaped forehead, long face, medium horns, strong body.",
+    "management_tips": "Performs well in hot, dry climates; requires minimal inputs; thrives under grazing and extensive management."
+  },
+  "Toda": {
+    "description": "Indigenous buffalo breed of the Nilgiri hills, Tamil Nadu, reared mainly by the Toda tribal community.",
+    "purpose": "Primarily milk production, especially for making traditional dairy products.",
+    "milk_yield": "Moderate producers, average 2–5 liters/day",
+    "region": "Restricted to Nilgiri plateau (Tamil Nadu).",
+    "physical_traits": "Medium-sized, jet black body, long sickle-shaped horns curving outward and upward, sturdy build.",
+    "management_tips": "Thrive best in hilly, grazing conditions; require free-range management with access to forest pastures."
+  },
+  "Umblachery": {
+    "description": "Indigenous draught breed of Tamil Nadu, also called Jathi madu or Mottai madu.",
+    "purpose": "Mainly used for draught power in agriculture (ploughing, carting).",
+    "milk_yield": "Low producers, around 500–700 liters per lactation",
+    "region": "Predominantly found in Thanjavur, Thiruvarur, and Nagapattinam districts of Tamil Nadu.",
+    "physical_traits": "Medium-sized, grey/white coat with darker shades on face and limbs; compact body; small to medium horns.",
+    "management_tips": "Hardy breed, suited for hot-humid delta conditions; thrive well under open grazing and low-input management."
+  },
+  "Vechur": {
+    "description": "World’s smallest cattle breed, native to Kerala, known for its dwarf size and resilience.",
+    "purpose": "Primarily valued for milk, which is rich in medicinal properties (easily digestible A2 milk).",
+    "milk_yield": "Around 2–3 liters/day",
+    "region": "Native to Kottayam and Alappuzha districts of Kerala.",
+    "physical_traits": "Very small size, short legs, compact body, light brown to fawn coat; distinctive small horns.",
+    "management_tips": "Require very little feed and space; highly disease-resistant; ideal for small-scale or backyard rearing."
+  }
+}
+
