@@ -210,3 +210,4 @@ static/uploads/
 data/
 *.pth
 __pycache__/
+.DS_Store
