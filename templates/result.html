@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>Uploaded Image</h3>
+            </div>
+            <div class="card-body text-center">
+                <img src="{{ url_for('static', filename=image_path.split('static/')[1]) }}" class="img-fluid rounded" alt="Uploaded Image">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>Prediction Result</h3>
+            </div>
+            <div class="card-body">
+                <h2 class="card-title text-success">{{ prediction }}</h2>
+                <p class="card-text"><strong>Description:</strong> {{ prediction_info.description }}</p>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><strong>Primary Purpose:</strong> {{ prediction_info.primary_purpose }}</li>
+                    <li class="list-group-item"><strong>Average Milk Yield:</strong> {{ prediction_info.average_milk_yield }}</li>
+                    <li class="list-group-item"><strong>Native Region:</strong> {{ prediction_info.region }}</li>
+                    <li class="list-group-item"><strong>Physical Traits:</strong> {{ prediction_info.physical_traits }}</li>
+                    <li class="list-group-item"><strong>Management Tip:</strong> {{ prediction_info.management_tip }}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center mt-4">
+    <a href="{{ url_for('index') }}" class="btn btn-secondary">Try Another Image</a>
+</div>
+{% endblock %}

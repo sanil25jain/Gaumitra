@@ -209,3 +209,4 @@ __marimo__/
 static/uploads/
 data/
 *.pth
+__pycache__/

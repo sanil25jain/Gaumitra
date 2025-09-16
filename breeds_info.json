@@ -47,7 +47,7 @@
     "physical_traits": "Medium-sized, copper-colored body with characteristic two white stripes ('chevrons') on the neck, sickle-shaped horns.",
     "management_tips": "Thrives under semi-intensive management, tolerates heat, ideal for low-input dairy systems."
   },
-  "Brown Swiss": {
+  "Brown_Swiss": {
     "description": "Exotic dairy breed, known for strength, adaptability, and longevity.",
     "purpose": "Specialized for milk production.",
     "milk_yield": "High, ~20–25 liters/day with ~4% fat and good protein content",
@@ -119,7 +119,7 @@
     "physical_traits": "Compact body, light grey to white coat, long sharp horns pointing forward, strong legs.",
     "management_tips": "Thrives in dry, hot climate; needs good grazing; disease-resistant and low-maintenance."
   },
-  "Krishna Valley": {
+  "Krishna_Valley": {
     "description": "Large, powerful draught breed from the Krishna river valley region.",
     "purpose": "Mainly used for heavy draught and agricultural work, limited milk use.",
     "milk_yield": "2–3 liters/day with ~4% fat",
@@ -127,7 +127,7 @@
     "physical_traits": "Large body, usually white to grey coat, broad forehead, strong muscular build, long horns.",
     "management_tips": "Requires good feeding and care, best suited for heavy farm work, relatively hardy in hot climates."
   },
-  "Malnad Gidda": {
+  "Malnad_gidda": {
     "description": "Small indigenous dwarf cattle breed from the Western Ghats of Karnataka.",
     "purpose": "Mainly valued for milk with high medicinal properties, also hardy for draught in hilly areas.",
     "milk_yield": "1–3 liters/day with 4.5–5% fat",
@@ -167,8 +167,8 @@
     "physical_traits": "Black or dark gray coat, long flat-curved horns (sometimes up to 1.5 meters), medium-sized body.",
     "management_tips": "Thrives in hot and dry climate, survives on grazing with minimal inputs, hardy and disease-resistant."
   },
-  "Nili-Ravi": {
-    "description": "High-yielding dairy buffalo breed, often called the “Black Gold of Pakistan.”",
+  "Nili_Ravi": {
+    "description": "High-yielding dairy buffalo breed, often called the Black Gold of Pakistan.",
     "purpose": "Primarily used for milk production.",
     "milk_yield": "10–15 liters/day with 6–7% fat",
     "region": "Native to Punjab region (India–Pakistan border, especially Pakistan’s Lahore, Sheikhupura, Faisalabad).",
@@ -199,7 +199,7 @@
     "physical_traits": "Medium to large-sized, white or light gray coat, long curved horns, muscular body.",
     "management_tips": "Performs well on grazing and dry fodder, hardy in hot climates, low-maintenance draught breed."
   },
-  "Holstein Friesian": {
+  "Holstein_Friesian": {
     "description": "Exotic dairy cattle breed from the Netherlands and Germany, famous for very high milk production.",
     "purpose": "Primarily used for commercial milk production.",
     "milk_yield": "20–30 liters/day (varies with management) with 3–4% fat",
@@ -263,7 +263,7 @@
     "physical_traits": "Medium-sized, usually brown with white patches (or sometimes black/white), well-developed udder, strong body.",
     "management_tips": "Thrives in hot, dry climates; requires low maintenance; suited for semi-intensive farming in arid zones."
   },
-  "Red Dane": {
+  "Red_Dane": {
     "description": "Exotic dairy cattle breed, imported mainly for crossbreeding to improve milk yield.",
     "purpose": "Specialized dairy.",
     "milk_yield": "High, ~20–25 liters/day with ~4% fat",
@@ -271,7 +271,7 @@
     "physical_traits": "Large body, reddish-brown coat (sometimes with white patches), strong legs, well-developed udder.",
     "management_tips": "Needs intensive management, high-quality fodder, proper housing, and veterinary care; best suited to well-organized dairy farms."
   },
-  "Red Sindhi": {
+  "Red_Sindhi": {
     "description": "Indigenous dairy cattle, famous for adaptability and disease resistance.",
     "purpose": "Primarily dairy; also used in crossbreeding to improve milk quality.",
     "milk_yield": "Good, ~8–12 liters/day with ~4–5% fat",
@@ -287,7 +287,7 @@
     "physical_traits": "Medium to large size, reddish-brown coat with white patches, loose skin, long drooping ears, strong udder.",
     "management_tips": "Thrives in hot, humid climates; disease resistant; performs well in both grazing and semi-intensive systems with good fodder."
   },
-  "Surti Buffalo": {
+  "Surti_Buffalo": {
     "description": "Indigenous dairy buffalo breed, small and docile, valued for good quality milk.",
     "purpose": "Mainly dairy.",
     "milk_yield": "Moderate, ~5–7 liters/day with ~7–8% fat",
